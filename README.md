@@ -1,11 +1,8 @@
 ## Hi👋 I'm daarkcypher ✨
 
 💻Computer science student<br/>
-🎥I make about AI and cybersecurity<br/> 
-Here are some ideas to get you started:
-- 🔭 I’m currently working on AI and Cybersecurity 
+🎥I make about video AI and cybersecurity<br/> 
 - 🌱 I’m currently learning AI Tools and Python
-- 💬 Ask me about AI and Ethicalhacking
 - 📫 How to reach me: on YouTube 
 - 😄 Pronouns: she?her
 -->
